@@ -2,7 +2,6 @@
 
 pragma solidity ^0.8.7;
 
-
 contract SmartContract_with_Front_end_interaction {
 
     address payable public WalletAddress;
