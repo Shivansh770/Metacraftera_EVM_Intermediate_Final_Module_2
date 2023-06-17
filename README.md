@@ -8,7 +8,7 @@ The files index.js, MySmartContract.sol and deploy.js contains codes to practice
 
 Follow the steps below:
 1. clone this repository ```https://github.com/Shivansh770/SCM-Starter.git```
-2. use command ```git clone https://github.com/Shivansh770/SCM-Starter,git``` to clone the repository in your local pc.
+2. use command ```git clone https://github.com/Shivansh770/SCM-Starter.git``` to clone the repository in your local pc.
 3.  Above repository contains all necessary file to interact with our smartcontract called Assessment.sol. I just made some changes for practice. Here we are going to change the file contents in (Assessment.sol in contracts folder), (index.js in pages folder) and (deploy.js in scripts folder)
 4.  rename the Assessment.sol file in contracts with MySmartContract.sol name and copy MySmartContract.sol file contains to that file.
 5.  copy index.js(from this repository) contents to the index.js file in the (pages) folder.
