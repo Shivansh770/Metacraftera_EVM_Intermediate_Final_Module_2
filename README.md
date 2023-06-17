@@ -7,15 +7,20 @@ The files index.js, MySmartContract.sol and deploy.js contains codes to practice
 # Environment Setting for Execution the above files
 
 Follow the steps below:
+1. clone this repository ```https://github.com/Shivansh770/SCM-Starter.git```
+2. use command ```git clone https://github.com/Shivansh770/SCM-Starter,git``` to clone the repository in your local pc.
+3.  Above repository contains all necessary file to interact with our smartcontract called Assessment.sol. I just made some changes for practice. Here we are going to change the file contents in (Assessment.sol in contracts folder), (index.js in pages folder) and (deploy.js in scripts folder)
+4.  rename the Assessment.sol file in contracts with MySmartContract.sol name and copy MySmartContract.sol file contains to that file.
+5.  copy index.js(from this repository) contents to the index.js file in the (pages) folder.
+6.  copy deploy.js(from this repository) contents to the deploy.js file in the (scripts) folder
 
-1. Above repository contains all necessary files to interact with our smartcontract. Here we have three files MySmartContract.sol file which should be put inside contracts folder , index.js in pages folder and deploy.js in scrips folder . 
-   All these files of this repository should be replaced wih files of repository provided by SCM-Starter by Metacrafters . 
+All these files of this repository should be replaced wih files of repository provided by SCM-Starter by Metacrafters . 
    
-2. We Also Need to Install Metamask Browser Extension , to see live working of our project . 
-3. Inside the project directory named (SCM-Starter), in the 1st terminal type: ```npm i```
-4. Inside the project directory named (SCM-Starter), in the 2st terminal type: ```npx hardhat node```
-5. Inside the project directory named (SCM-Starter), in the 3st terminal type: ```npx hardhat run --network localhost scripts/deploy.js```
-6. ack in the first terminal, type ```npm run dev``` to launch the front-end. Now read the below account setting instructions before
+7. We Also Need to Install Metamask Browser Extension , to see live working of our project . 
+8. Inside the project directory named (SCM-Starter), in the 1st terminal type: ```npm i```
+9. Inside the project directory named (SCM-Starter), in the 2st terminal type: ```npx hardhat node```
+10. Inside the project directory named (SCM-Starter), in the 3st terminal type: ```npx hardhat run --network localhost scripts/deploy.js```
+11. ack in the first terminal, type ```npm run dev``` to launch the front-end. Now read the below account setting instructions before
 
 # Setting up the local host network and a dummy account in your Metamask Wallet
 
