@@ -104,6 +104,8 @@ export default function Homepage() {
 
     useEffect(() => {getWallet();}, []);
 
+    //These are the frontend files ...
+
     return (
       <main className="container">
         <header><h1>Welcome to the Metacrafters Novice's Infinite Crypto Currency Making Tree Interface!</h1></header>
